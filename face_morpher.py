@@ -45,7 +45,6 @@ def get_triangles(points):
     """
     return Delaunay(points).simplices
 
-
 def affine_transform(input_image, input_triangle, output_triangle, size):
     """
     仿射变换
@@ -152,4 +151,3 @@ if __name__ == '__main__':
             break
         i = (i+1) % nums
     cv2.destroyAllWindows()
-

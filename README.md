@@ -17,4 +17,4 @@ numpy
 
 shape_predictor_68_face_landmarks.dat
 
-
+You only download the `.dat`file,and change the `.jpg`file to yours picture
