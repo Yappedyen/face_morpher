@@ -1,4 +1,4 @@
-#Face morhper
+# Face morhper
 
 
 First, 68 facial feature points were detected 
@@ -7,7 +7,7 @@ triangulated. Then affine transformation and triangular
 deformation were performed, and images of different Alpha 
 were fused to generate GIF of deformation process.
 
-#Requirement
+# Requirement
 
 * opencv
 * dlib
