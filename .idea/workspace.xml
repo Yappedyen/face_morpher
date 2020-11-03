@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="557043e4-347b-4582-9ee1-8c0263c03afa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_morpher.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_morpher.py" afterDir="false" />
-    </list>
+    <list default="true" id="557043e4-347b-4582-9ee1-8c0263c03afa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +27,29 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.face_morpher (1)">
+    <configuration name="face_morpher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_morpher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_morpher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="face_morpher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_morpher" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_morpher (1)" />
         <item itemvalue="Python.face_morpher" />
       </list>
     </recent_temporary>
@@ -72,7 +91,7 @@
       <updated>1604234011665</updated>
       <workItem from="1604234016426" duration="3382000" />
       <workItem from="1604319230127" duration="4752000" />
-      <workItem from="1604367076719" duration="7286000" />
+      <workItem from="1604367076719" duration="7565000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1604376213443</created>
@@ -88,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604376382627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second">
+      <created>1604376695658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604376695658</updated>
+    </task>
+    <task id="LOCAL-00004" summary="second">
+      <created>1604376912466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604376912466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,13 +129,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="first push" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="415" y="13" key="CommitChangelistDialog2" timestamp="1604376695115">
+    <state x="415" y="13" key="CommitChangelistDialog2" timestamp="1604376911931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="415" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604376695115" />
+    <state x="415" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604376911931" />
     <state x="517" y="157" key="FileChooserDialogImpl" timestamp="1604376001973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -111,22 +145,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="603" y="303" width="284" height="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1604376088145" />
-    <state width="1286" height="210" key="GridCell.Tab.0.bottom" timestamp="1604376089115">
+    <state width="1286" height="210" key="GridCell.Tab.0.bottom" timestamp="1604376995359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1286" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604376089115" />
-    <state width="1286" height="210" key="GridCell.Tab.0.center" timestamp="1604376089115">
+    <state width="1286" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604376995359" />
+    <state width="1286" height="210" key="GridCell.Tab.0.center" timestamp="1604376995358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1286" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604376089115" />
-    <state width="1286" height="210" key="GridCell.Tab.0.left" timestamp="1604376089115">
+    <state width="1286" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604376995358" />
+    <state width="1286" height="210" key="GridCell.Tab.0.left" timestamp="1604376995358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1286" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604376089115" />
-    <state width="1286" height="210" key="GridCell.Tab.0.right" timestamp="1604376089115">
+    <state width="1286" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604376995358" />
+    <state width="1286" height="210" key="GridCell.Tab.0.right" timestamp="1604376995358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1286" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604376089115" />
+    <state width="1286" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604376995358" />
     <state width="1286" height="187" key="GridCell.Tab.1.bottom" timestamp="1604371276811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -143,12 +177,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1286" height="187" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604371276811" />
-    <state x="404" y="192" key="Vcs.Push.Dialog.v2" timestamp="1604376707520">
+    <state x="404" y="192" key="Vcs.Push.Dialog.v2" timestamp="1604376918874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="404" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604376707520" />
+    <state x="404" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604376918874" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/face_morpher$face_morpher__1_.coverage" NAME="face_morpher (1) Coverage Results" MODIFIED="1604376995345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/face_morpher$face_morhper.coverage" NAME="face_morhper Coverage Results" MODIFIED="1604374789941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
