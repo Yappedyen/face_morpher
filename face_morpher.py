@@ -8,11 +8,10 @@ import imageio
 
 predictor_model = 'shape_predictor_68_face_landmarks.dat'
 
-
 def get_points(image):
-    """
-    用 dlib 获取面部特征点
-    """
+
+    # Use dlib Get facial feature points
+
     face_detector = dlib.get_frontal_face_detector()
     face_pose_predictor = dlib.shape_predictor(predictor_model)
 
@@ -39,7 +38,6 @@ def get_points(image):
     points.append([0, y // 2])
 
     return np.array(points)
-
 
 def get_triangles(points):
     """
@@ -105,7 +103,6 @@ def morph_triangle(img1, img2, img, tri1, tri2, tri, alpha):
             rect[2]] * (1 - mask) + img_rect * mask
     return img
 
-
 def morph_faces(points1, points2,img1,img2,img_morphed, alpha):
     """
     融合图片
@@ -124,17 +121,6 @@ def morph_faces(points1, points2,img1,img2,img_morphed, alpha):
         img_morph = morph_triangle(img1, img2, img_morphed, tri1, tri2, tri, alpha)
 
     return np.uint8(img_morph)
-
-# def create_gif(image_list, gif_name):
-#     frames = []
-#     for image_name in image_list:
-#         if image_name.endswith('.jpg'):
-#             print(image_name)
-#             frames.append(imageio.imread(image_name))
-#     # Save them as frames into a gif
-#     imageio.mimsave(gif_name, frames, 'GIF', duration=1)
-#
-#     return
 
 if __name__ == '__main__':
     filename1 = 'examples/frank.jpg'
