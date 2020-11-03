@@ -99,10 +99,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="first push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="415" y="13" key="CommitChangelistDialog2" timestamp="1604376382061">
+    <state x="415" y="13" key="CommitChangelistDialog2" timestamp="1604376695115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="415" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604376382061" />
+    <state x="415" y="13" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604376695115" />
     <state x="517" y="157" key="FileChooserDialogImpl" timestamp="1604376001973">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -143,6 +143,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1286" height="187" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604371276811" />
+    <state x="404" y="192" key="Vcs.Push.Dialog.v2" timestamp="1604376707520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604376707520" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/face_morpher$face_morhper.coverage" NAME="face_morhper Coverage Results" MODIFIED="1604374789941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
